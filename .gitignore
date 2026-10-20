@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+external_cache/
+reproduced_figures/
+.venv/

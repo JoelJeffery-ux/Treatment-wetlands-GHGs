@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.0
+shapely==2.0.6
+pyproj==3.6.1
+PyMuPDF==1.27.2.2
+rasterio==1.4.3
+pyshp==2.3.1
